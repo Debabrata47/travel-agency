@@ -32,13 +32,10 @@ export default function Footer() {
           </div>
           <ul>
             <li>
-              <span> +0213 456 987 </span>
+              <span> +91 8093334843 </span>
             </li>
             <li>
-              <span>kishansheth21@gmail.com</span>
-            </li>
-            <li>
-              <span>www.youtube.com</span>
+              <span>debabratamohapatra47@gmail.com</span>
             </li>
           </ul>
         </div>
@@ -68,7 +65,7 @@ export default function Footer() {
       </div>
       <div className="lower-footer">
         <span>
-          Copyright &copy; Travel. Designed by <a href="#">Kishan Sheth</a>
+          Copyright &copy; Travel. Designed with 💛 by <a href="#">Debabrata Mohapatra</a>
         </span>
       </div>
     </Container>
